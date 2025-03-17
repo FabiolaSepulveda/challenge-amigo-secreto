@@ -1,4 +1,4 @@
-# Proyecto: Amigo Secreto
+# Proyecto: Juego del Amigo Secreto
 
 Este proyecto es una aplicación web que permite realizar un sorteo de "Amigo Secreto". 
 Los usuarios pueden agregar nombres a una lista y, posteriormente, realizar un sorteo 
@@ -30,15 +30,17 @@ aleatorio para seleccionar a un amigo secreto.
 ## 📸 Capturas de Pantalla
 
 ### Agregar Nombres:
-![Al dar clic, en el botón "añadir" o presionando Enter, se van agregando los amigos secretos](https://github.com/user-attachments/assets/4774896e-6259-4912-9fc0-c26da06ce3bc)
-*Al dar clic*
+![agregar](https://github.com/user-attachments/assets/4c42c1b1-4bee-459a-94b9-09a4f2fefa7d)
 
+*Al dar clic, en el botón "añadir" o presionando Enter, se van agregando los amigos secretos*
 ### Lista de Nombres añadidos:
-![Los amigos agregados se muestran en la pantalla, a medida que se van añadiendo](https://github.com/user-attachments/assets/c83466ac-3d18-4647-8f46-4c845ee3264d)
+![listar](https://github.com/user-attachments/assets/7047cd93-0816-40bc-aac8-9a33d8ab4a1d)
 
+*Los amigos agregados se muestran en la pantalla, a medida que se van añadiendo*
 ### Sorteo Realizado:
-![Al dar clic, en el botón "sortear amigo", muestra en pantalla, al amigo secreto](https://github.com/user-attachments/assets/45155a4c-437f-434b-be53-2842b6ed4086)
+![sortear](https://github.com/user-attachments/assets/2b1525d0-ca28-4918-a959-6ac103ecf740)
 
+*Al dar clic, en el botón "sortear amigo", muestra en pantalla, al amigo secreto*
 ## 📋 Instalación y Uso
 1. Clona el repositorio:
    ```bash
@@ -48,7 +50,7 @@ aleatorio para seleccionar a un amigo secreto.
 
 ## 🌐 Ver Proyecto en GitHub Pages
 Puedes acceder a la aplicación desde el siguiente enlace:
-[Amigo Secreto en GitHub Pages](https://tu-usuario.github.io/amigo-secreto/)
+[Juego del Amigo Secreto en GitHub Pages](https://fabiolasepulveda.github.io/challenge-amigo-secreto/)
 
 ## 💡 Próximas Mejoras
 - Implementar un botón para reiniciar el sorteo.
