@@ -31,6 +31,7 @@ aleatorio para seleccionar a un amigo secreto.
 
 ### Agregar Nombres:
 ![Al dar clic, en el botón "añadir" o presionando Enter, se van agregando los amigos secretos](https://github.com/user-attachments/assets/4774896e-6259-4912-9fc0-c26da06ce3bc)
+*Al dar clic*
 
 ### Lista de Nombres añadidos:
 ![Los amigos agregados se muestran en la pantalla, a medida que se van añadiendo](https://github.com/user-attachments/assets/c83466ac-3d18-4647-8f46-4c845ee3264d)
